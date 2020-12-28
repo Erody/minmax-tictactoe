@@ -1,0 +1,8 @@
+How to use:
+Make sure you have python installed.
+
+In your terminal navigate to the folder with the file tictactoe.py 
+Type:
+python tictactoe.py 
+
+This will start the program.
